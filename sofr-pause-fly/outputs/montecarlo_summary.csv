@@ -1,0 +1,5 @@
+scenario,P(0/1/2),sd_bp,P(95.75-95.875),fly_EV_bp,condor_EV_bp,fly_edge_bp
+Market-like (independent meetings),11%/60%/30%,15.838,0.259,0.726,2.594,-0.584
+"Base case: one hike, then pause",10%/80%/10%,12.238,0.738,3.17,4.376,1.86
+"Central: one hike, data-dependent",10%/65%/25%,15.357,0.519,1.902,3.576,0.592
+Hawkish: two-hike risk,15%/50%/35%,17.595,0.4,1.465,2.755,0.155
